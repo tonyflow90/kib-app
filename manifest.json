@@ -1,7 +1,7 @@
 {
-  "name": "Whip-App",
-  "short_name": "Whip-App",
-  "description": "Whip App description",
+  "name": "Kib-App",
+  "short_name": "Kib-App",
+  "description": "Kib App description",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
@@ -14,7 +14,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/kib-app/",
   "display": "standalone",
   "theme_color": "#008b8b",
   "background_color": "#ffffff"

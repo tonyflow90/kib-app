@@ -138,7 +138,7 @@ class KibApp extends HTMLElement {
                     <div class="header">
                         <div class="header-content">
                             <div>
-                                <a href="https://tonyflow90/github.io/kip-app"><img alt="Kib Logo" class="logo" src="./images/logo.png"/></a>
+                                <a href="https://tonyflow90.github.io/kip-app"><img alt="Kib Logo" class="logo" src="./images/logo.png"/></a>
                             </div>
                             <div>
                                 <a href="https://github.com/tonyflow90"><img alt="Github Logo" class="icon" src="./images/github.svg"/></a>
